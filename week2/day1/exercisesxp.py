@@ -22,6 +22,7 @@ def find_oldest_cat(cat1,cat2,cat3):
 oldest = find_oldest_cat(cat1,cat2,cat3)
 print("oldest cat is "  +  oldest.name)
 #Exercise 2 : Dogs
+
 class dog():
     def __init__(self,name,height):
         self.name = name

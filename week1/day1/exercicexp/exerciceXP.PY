@@ -10,7 +10,7 @@ result1 = 3==3
 print(result1)
 result2 = 3=="3"
 print(result2)
-result =int("3")> 3
+result =int("3")> 3 
 print(result)
 result4 = "HELLO" == "hello"
 print(result4)
